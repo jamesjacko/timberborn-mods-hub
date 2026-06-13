@@ -1,0 +1,9 @@
+Paste this BBCode block into each mod's Steam Workshop description (e.g. above the
+"Support" section) to funnel bug reports and ideas to the issues page.
+
+----------------------------------------------------------------------
+
+[b]Bugs & suggestions[/b]
+Found a bug or have an idea? The quickest way to reach me is the issues page:
+[url=https://github.com/jamesjacko/timberborn-mods-hub/issues]github.com/jamesjacko/timberborn-mods-hub/issues[/url]
+(Workshop comments work too.)

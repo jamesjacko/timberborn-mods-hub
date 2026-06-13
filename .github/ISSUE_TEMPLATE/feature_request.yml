@@ -1,0 +1,25 @@
+name: Feature request
+description: Suggest a new pattern, option, or improvement
+labels: [enhancement]
+body:
+  - type: dropdown
+    id: mod
+    attributes:
+      label: Which mod?
+      options:
+        - Grid Cutting Patterns
+        - Other / general
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: The idea
+      description: What would you like the mod to do?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why would it help?
+      description: How would this improve your game? (Great suggestions have shipped before — the Sparse pattern came from a player.)
