@@ -3,8 +3,7 @@
 Plant two crops in a repeating **pattern** with a single drag — no more placing fields one strip at
 a time.
 
-> **Coming soon.** This mod isn't on the Steam Workshop yet. This page will get a Workshop link
-> when it's released.
+**▶ [Get it on the Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3746114393)**
 
 ## How to use
 
