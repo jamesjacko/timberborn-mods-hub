@@ -11,7 +11,7 @@ Found a bug or have an idea? **[Open an issue →](https://github.com/jamesjacko
 |-----|--------------|--------|------|
 | **Grid Cutting Patterns** | Cut trees in grid patterns (checkerboard, stripes, thin, heavy, sparse) so cut areas keep reseeding themselves. | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3739849811) | [docs](docs/grid-cutting-patterns.md) |
 | **Growth & Harvest Heatmap** | A toggleable overlay that recolours plants, crops and trees by life stage, so you can see at a glance what's ready and what's lagging. Filters by plant type and planted/wild, plus a colourblind-friendly mode. | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3751029877) | [docs](docs/growth-harvest-heatmap.md) |
-| **Pattern Planting** | Plant two crops in a repeating pattern (checkerboard, rows or columns) with a single drag — each tile planted only where that crop can grow. | _Coming soon_ | [docs](docs/pattern-planting.md) |
+| **Pattern Planting** | Plant two crops in a repeating pattern (checkerboard, rows or columns) with a single drag — each tile planted only where that crop can grow. | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3746114393) | [docs](docs/pattern-planting.md) |
 
 ## Report a bug or request a feature
 
