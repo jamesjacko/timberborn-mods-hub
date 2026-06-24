@@ -8,6 +8,8 @@ body:
       label: Which mod?
       options:
         - Grid Cutting Patterns
+        - Growth & Harvest Heatmap
+        - Pattern Planting
         - Other / not sure
     validations:
       required: true
