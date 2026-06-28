@@ -10,6 +10,7 @@ Found a bug or have an idea? **[Open an issue →](https://github.com/jamesjacko
 | Mod | What it does | Get it | Docs |
 |-----|--------------|--------|------|
 | **Grid Cutting Patterns** | Cut trees in grid patterns (checkerboard, stripes, thin, heavy, sparse) so cut areas keep reseeding themselves. | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3739849811) | [docs](docs/grid-cutting-patterns.md) |
+| **Tech Tree Hints** *(beta)* | Fades locked buildings you can't supply yet, so the sensible next research unlocks stand out. Names the missing good on hover. UI-only. | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3753526698) | [docs](docs/tech-tree-hints.md) |
 
 ## Report a bug or request a feature
 
